@@ -729,7 +729,7 @@ ol {
 
 .bs-text h2 {
 	font-size: 48px;
-	color: #ffffff;
+	color: blue;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 25px;
@@ -737,7 +737,7 @@ ol {
 
 .bs-text .bt-tips {
 	font-size: 20px;
-	color: #c4c4c4;
+	color:white;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 45px;
@@ -2281,7 +2281,9 @@ ol {
 	position: relative;
 	margin-bottom: 30px;
 }
-
+#col123 {
+	background-color: black;
+}
 .blog-details-text .blog-details-quote .quote-icon {
 	position: absolute;
 	left: 50%;
