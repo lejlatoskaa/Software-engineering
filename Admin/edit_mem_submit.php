@@ -39,6 +39,7 @@ include('../constant/connect.php');
      }
    }else{
     echo "<html><head><script>alert('ERROR! Update Opertaion Unsucessfull');</script></head></html>";
+       
     echo "error".mysqli_error($con);
    }
     
