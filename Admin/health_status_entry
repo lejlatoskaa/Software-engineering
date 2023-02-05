@@ -26,6 +26,7 @@ if(isset($_POST['submit'])){
     $fat=$_POST['fat'];
     $remarks=$_POST['remarks'];
     $userid=$_POST['usrid'];
+    
      
     $query="update health_status set calorie='".$calorie."', height='".$height."',weight='".$weight."',fat='".$fat."',remarks='".$remarks."' where uid='".$userid."'";
      
