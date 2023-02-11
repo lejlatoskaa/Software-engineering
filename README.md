@@ -21,6 +21,11 @@ attendance - tracks who is currently on the gym.
 activities or system logs
 subscription management
 
+![ss2](https://user-images.githubusercontent.com/59256249/218224507-7d21dc77-d88a-4f28-ab0a-5529a8f81bb0.PNG)
+![ss3](https://user-images.githubusercontent.com/59256249/218224523-4e7eccb3-8cdf-4fba-8e9a-3f24eb1f762d.PNG)
+![ss4](https://user-images.githubusercontent.com/59256249/218224542-f3d694ba-4e11-4df8-9afe-8e3f670105c6.PNG)
+
+
 instructions how to insall:
 
 * download the zip folder
